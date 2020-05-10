@@ -9,5 +9,6 @@ featured: false
 publication: "*Chem. Commun.*"
 url_pdf: "https://pubs.rsc.org/en/content/articlelanding/2016/cc/c6cc02544g"
 doi: "10.1039/C6CC02544G"
+tags: ["porphyrins", "supramolecular chemistry", "spectroscopy", "NMR"]
 ---
 

@@ -9,5 +9,6 @@ featured: false
 publication: "*Chem. Sci.*"
 url_pdf: "https://pubs.rsc.org/en/content/articlelanding/2020/sc/c9sc05717j"
 doi: "10.1039/C9SC05717J"
+tags: ["porphyrins", "spectroscopy", "compchem"]
 ---
 

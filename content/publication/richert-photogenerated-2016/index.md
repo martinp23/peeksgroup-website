@@ -9,5 +9,6 @@ featured: false
 publication: "*Phys. Chem. Chem. Phys.*"
 url_pdf: "https://pubs.rsc.org/en/content/articlelanding/2016/cp/c6cp04444a"
 doi: "10.1039/C6CP04444A"
+tags: ["macrocycles", "porphyrins", "compchem",  "EPR"]
 ---
 

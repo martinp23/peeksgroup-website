@@ -9,5 +9,6 @@ featured: false
 publication: "*J. Am. Chem. Soc.*"
 url_pdf: "https://doi.org/10.1021/jacs.8b06193"
 doi: "10.1021/jacs.8b06193"
+tags: [ "polymers", "radicals", "molecular wires", "faraday rotation"]
 ---
 

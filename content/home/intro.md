@@ -34,8 +34,6 @@ subtitle = ""
 
 
 +++
-The Peeks group employs rational molecular design to build new materials, with a focus on exploring supramolecular and macromolecular chemistry towards sensing and light-harvesting applications. Read more on our research page, or learn about group members. You can see what we have worked on previously on our publications page. 
+The Peeks group employs rational molecular design to build new materials, with a focus on exploring supramolecular and macromolecular chemistry towards sensing and light-harvesting applications. Scroll through this page to learn more!
 
-
-
-The Peeks group is based in the School of Chemistry at UNSW Sydney. 
+We are based in the [School of Chemistry](https://www.chemistry.unsw.edu.au/) at [UNSW Sydney](https://www.unsw.edu.au/). 

@@ -9,5 +9,6 @@ featured: false
 publication: "*J. Phys. Chem. Lett.*"
 url_pdf: "https://doi.org/10.1021/acs.jpclett.9b00623"
 doi: "10.1021/acs.jpclett.9b00623"
+tags: ["macrocycles", "porphyrins", "supramolecular chemistry", "compchem", "aromaticity", "spectroscopy"]
 ---
 

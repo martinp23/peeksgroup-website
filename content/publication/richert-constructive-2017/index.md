@@ -9,5 +9,6 @@ featured: false
 publication: "*Nat Commun*"
 url_pdf: "https://www.nature.com/articles/ncomms14842"
 doi: "10.1038/ncomms14842"
+tags: ["macrocycles", "porphyrins", "compchem",  "EPR"]
 ---
 

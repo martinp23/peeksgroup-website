@@ -9,5 +9,6 @@ featured: false
 publication: "*Nature Chemistry*"
 url_pdf: "https://www.nature.com/articles/s41557-019-0398-3"
 doi: "10.1038/s41557-019-0398-3"
+tags: ["macrocycles", "porphyrins", "compchem",  "spectroscopy", "aromaticity", "NMR"]
 ---
 

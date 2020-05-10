@@ -9,5 +9,6 @@ featured: false
 publication: "*Physical Chemistry Chemical Physics*"
 url_pdf: "http://xlink.rsc.org/?DOI=C5CP07424J file:///Files/A7/A7FE01F4-AC8C-420D-B79C-10790F12BB19.pdf papers3://publication/doi/10.1039/C5CP07424J"
 doi: "10.1039/C5CP07424J"
+tags: [ "porphyrins", "compchem",  "EPR"]
 ---
 

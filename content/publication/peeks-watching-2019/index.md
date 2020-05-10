@@ -9,5 +9,6 @@ featured: false
 publication: "*Chem*"
 url_pdf: "http://www.sciencedirect.com/science/article/pii/S2451929418305825"
 doi: "10.1016/j.chempr.2018.12.019"
+tags: ["aromaticity"]
 ---
 

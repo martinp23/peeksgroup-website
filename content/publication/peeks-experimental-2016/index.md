@@ -9,5 +9,6 @@ featured: false
 publication: "*Phys. Chem. Chem. Phys.*"
 url_pdf: "https://pubs.rsc.org/en/content/articlelanding/2016/cp/c5cp06167a"
 doi: "10.1039/C5CP06167A"
+tags: [ "porphyrins","molecular wires","compchem","spectroscopy"]
 ---
 

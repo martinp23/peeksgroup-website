@@ -9,5 +9,6 @@ featured: false
 publication: "*Phys. Chem. Chem. Phys.*"
 url_pdf: "https://pubs.rsc.org/en/content/articlelanding/2017/cp/c7cp07348h"
 doi: "10.1039/C7CP07348H"
+tags: ["porphyrins", "spectroscopy", "aromaticity"]
 ---
 

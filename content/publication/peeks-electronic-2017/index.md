@@ -9,5 +9,6 @@ featured: false
 publication: "*J. Am. Chem. Soc.*"
 url_pdf: "https://doi.org/10.1021/jacs.7b05386"
 doi: "10.1021/jacs.7b05386"
+tags: ["porphyrins", "compchem", "spectroscopy", "molecular wires"]
 ---
 

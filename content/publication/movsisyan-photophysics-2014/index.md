@@ -9,5 +9,6 @@ featured: false
 publication: "*J. Am. Chem. Soc.*"
 url_pdf: "https://doi.org/10.1021/ja510663z"
 doi: "10.1021/ja510663z"
+tags: ["macrocycles", "spectroscopy", "compchem"]
 ---
 

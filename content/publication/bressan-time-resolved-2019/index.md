@@ -9,5 +9,6 @@ featured: false
 publication: "*J. Phys. Chem. C*"
 url_pdf: "https://doi.org/10.1021/acs.jpcc.9b07494"
 doi: "10.1021/acs.jpcc.9b07494"
+tags: ["porphyrins", "spectroscopy"]
 ---
 
