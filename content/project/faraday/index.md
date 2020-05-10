@@ -39,3 +39,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+All matter exhibits a Faraday effect: the polarisation of light as it passes through a material changes proportional to the strength of an external magnetic field. This effect is well-known and underpins the operation of several optical components, including Faraday isolators, which are essentially optical diodes (they only let light pass in one direction). Most commercial Faraday rotating materials are based on inorganic chemistry, and comprise ferrimagnetic crystals.
+
+It was recently shown that a common polymer – poly(3-hexylthiophene) – exhibits a Faraday rotation competitive with that of the extant ferrimagnetic materials. However, the reason isn't clear. We seek to explore the structure-property relationships which underpin the Faraday rotation in organic materials, and thus perhaps develop excellent new Faraday rotating materials which could have applications as medical magnetosensors or in photonic devices.

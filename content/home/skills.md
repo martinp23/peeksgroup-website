@@ -3,9 +3,9 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 66  # Order that this section will appear.
 
-title = "Skills"
+title = "Our skills"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -32,23 +32,6 @@ subtitle = ""
   name = "Spectroscopy"
 #  description = "10%"
 
-[[feature]]
-  icon = "cubes"
-  icon_pack = "fas"
-  name = "Supramolecular<br> chemistry"
-#  description = "90%"
-
-[[feature]]
-  icon = "bolt"
-  icon_pack = "fas"
-  name = "Molecular electronics"
-
-[[feature]]
-  icon = "ring"
-  icon_pack = "fas"
-  name = "Aromaticity"
-#  description = "90%"
-  # TODO: make better aromaticity logo
 
 
 [[feature]]

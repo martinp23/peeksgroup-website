@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Aromaticity and antiaromaticity"
+title: "Self-assembly fundamentals"
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2020-05-09T21:47:12+10:00
+date: 2020-05-10T11:39:06+10:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,6 +39,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Aromatic molecules are cyclic and pi-conjugated, and exhibit some interesting effects. Most well-known nowadays is the behaviour of aromatic molecules in a magnetic field: in an NMR spectrometer, we see that the chemical shifts of protons inside and outside the ring are anamolously (de)shielded. This affect arises from the establishment of a persistent ring current of circulating pi-electrons, which itself generates a molecular magnetic field which opposes the applied field. 
+Nature is an expert at self-assembly. Your body, as a whole, is a complex compartmentalised system of molecules, reactions, and replicators, all underpinned by self-assembly and supramolecular chemistry.
 
-What can we learn about the fundamental nature of aromaticity and antiaromaticity? Despite nearly a hundred years of study, aromaticity remains poorly defined. In addition to answers to this fundamental question, we are looking for materials applications of (anti)aromatic materials.
+We explore self-assembly processes and their use towards making new materials and exploring structure-property relationships. In a chemical space traditionally dominated by extended pi-conjugated systems, we explore how through-space energy transfer and excitonic effects can deliver excellent materials properties.

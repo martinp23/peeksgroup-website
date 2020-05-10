@@ -15,7 +15,27 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  name = "Hello"
-  
+  icon = "cubes"
+  icon_pack = "fas"
+  name = "Supramolecular<br> chemistry"
+#  description = "90%"
+
+[[feature]]
+  icon = "bolt"
+  icon_pack = "fas"
+  name = "Molecular electronics"
+
+[[feature]]
+  icon = "ring"
+  icon_pack = "fas"
+  name = "Aromaticity"
+#  description = "90%"
+  # TODO: make better aromaticity logo
+
 
 +++
+The Peeks group employs rational molecular design to build new materials, with a focus on exploring supramolecular and macromolecular chemistry towards sensing and light-harvesting applications. Read more on our research page, or learn about group members. You can see what we have worked on previously on our publications page. 
+
+
+
+The Peeks group is based in the School of Chemistry at UNSW Sydney. 
