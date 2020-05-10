@@ -1,0 +1,18 @@
+{{/* Do not directly modify this file! */}}
+{{/* Instead, create a `layouts/partials/custom_head.html` file in your site and add your code to it. */}}
+
+{{/* This partial is included in `themes/academic/layouts/partials/site_head.html`. */}}
+
+
+{{/* https://discourse.gohugo.io/t/how-to-override-css-classes-with-hugo/3033/9 */}}
+
+{{if .Params.noheadfoot }}
+
+<style>
+body {margin-top: 0px}
+.navbar {display:none;}
+.home-section:first-of-type {padding: 0px}
+.site-footer {display:none;}
+</style>
+
+{{ end }}
