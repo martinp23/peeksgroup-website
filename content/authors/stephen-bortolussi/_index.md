@@ -64,3 +64,4 @@ email: ""
 user_groups:
 - Researchers
 ---
+Stephen is from Sydney, Australia, and is currently completing the Honours year of a Bachelor of Advanced Science (Chemistry/Material Science, Statistics minor) at UNSW. His current direction for research is pi-conjugated liquid crystals. He also has an active role in student societies at UNSW including [Students of Advanced Math and Science (SAMS)](https://www.facebook.com/groups/unsw.sams/) and [Students of Chemistry Society (SOCS)](https://www.chemistry.unsw.edu.au/current-students/undergraduate/socs).
