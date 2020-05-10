@@ -18,17 +18,17 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Stephen is from Sydney, Australia, and is currently completing the Honours year of a Bachelor of Advanced Science (Chemistry/Material Science, Statistics minor) at UNSW. His current direction for research is pi-conjugated liquid crystals. He also has an active role in student societies at UNSW including [Students of Advanced Math and Science (SAMS)](https://www.facebook.com/groups/unsw.sams/) and [Students of Chemistry Society (SOCS)](https://www.chemistry.unsw.edu.au/current-students/undergraduate/socs). 
 
 # List each interest with a dash
 interests:
 - Synthesis and properties of liquid crystalline materials
 
-# education:
-#   courses:
-#   - course: Title course 1
-#     institution: Name of Institution
-#     year: 2012
+education:
+  courses:
+  - course: Bachelor of Advanced Science (Chemistry/Material Science, Statistics minor)
+    institution: University of New South Wales
+    year: present
 #   - course: Title course 1
 #     institution: Name of Institution
 #     year: 2012
