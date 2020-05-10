@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Faraday"
+title: "Faraday rotation in organic materials"
 summary: ""
 authors: []
 tags: []

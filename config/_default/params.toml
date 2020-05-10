@@ -86,14 +86,14 @@ phone = "+61 2938 57375"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
+address = {street = "School of Chemistry, Dalton F12", city = "University of New South Wales", region = "NSW", postcode = "2052", country = "Australia", country_code = "AU"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "-33.916861", longitude = "151.229337"}
 
 # Directions for visitors to locate you.
-directions = "Second floor of the Dalton building"
+#directions = "Second floor of the Dalton building"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

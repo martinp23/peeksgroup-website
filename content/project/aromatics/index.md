@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Aromatics"
+title: "Aromaticity and antiaromaticity"
 summary: ""
 authors: []
 tags: []
