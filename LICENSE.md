@@ -1,4 +1,7 @@
-MIT License
+The content in the website is all rights reserved.
+
+
+The Hugo academic theme is licensed under the MIT License
 
 Copyright (c) 2016-present George Cushen
 
