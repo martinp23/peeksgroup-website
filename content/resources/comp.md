@@ -4,6 +4,8 @@ linktitle: Computational links
 toc: true
 type: docs
 draft: false
+date: 'May 2020'
+lastmod: '10 May 2020'
 menu:
   resources:
     name: Computational chemistry links
