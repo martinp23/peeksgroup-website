@@ -72,6 +72,5 @@ He then moved to the University of Oxford to work with Prof Harry L. Anderson fo
 
 In April 2017 he was awarded a Lindemann Trust Fellowship from the English Speaking Union, which supported his work at Massachusetts Institute of Technology, in Prof Timothy M. Swager's group, exploring magneto-optical polymers and other materials. From December 2018 to March 2019, he returned to work in the Anderson group at Oxford, when his work at MIT was disrupted by visa issuance delays from the US government. 
 
-In June 2019, Martin started the Peeks group when he took up a Scientia Fellowship at UNSW Sydney. Research in the group explores the use of supramolecular chemistry to develop structure-property relationships for functional materials, and he retains an interest in exploring the nature and applications of (anti)aromaticity.
+In June 2019, Martin started the Peeks group at UNSW Sydney, where he is a Scientia Lecturer. Research in the group explores the use of supramolecular chemistry to develop structure-property relationships for functional materials, and he retains an interest in exploring the nature and applications of (anti)aromaticity.
 
-Outside of this, Martin retains an interest in coding (some projects are shared on github) and open science.
