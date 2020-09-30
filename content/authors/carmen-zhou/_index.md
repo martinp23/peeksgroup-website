@@ -1,16 +1,16 @@
 ---
 # Display name
-title: "Bethany Hillier"
+title: "Carmen Zhou"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "bethany-hillier"
+- "carmen-zhou"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Honours Student (2020-2021); Undergraduate researcher (2019)
+role: CHEM2999 project student (2020)
 
 # Organizations/Affiliations
 organizations:
@@ -18,20 +18,17 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Bethany completed a Bachelor of Science (International) at UNSW, supplementing her Chemistry major with a minor in Spanish and Latin American Studies. She has returned to the Peeks Group for her Honours Project in 2020, having previously researched as an undergraduate volunteer in 2019. Bethany is currently interested in the synthesis and properties of cross-conjugated molecules.  
+bio: Hi, I'm a first-year undergraduate student working with the Peeks group for my CHEM2999 project to metallate porphyrins and to explain the effects of different metals. I hope to pursue a career in research, so I'm excited to be finally getting some experience in the lab! I have a casual job on the weekend, and when I'm not studying for university or working, I like to relax by watching movies/tv-shows or reading. 
 
 # List each interest with a dash
 interests:
-- Synthesis of cross-conjugated molecules
+- Synthesis of porphyrins
 
 education:
   courses:
-  - course: Bachelor of Science (International)
+  - course: Bachelor of Advanced Science (Honours) (Chemistry + Materials Science majors)
     institution: UNSW
-    year: 2016-2020
-  - course: Honours in the School of Chemistry 
-    institution: UNSW
-    year: in progress
+    year: In progress
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -64,4 +61,4 @@ email: ""
 user_groups:
 - Researchers
 ---
-Bethany completed a Bachelor of Science (International) at UNSW, supplementing her Chemistry major with a minor in Spanish and Latin American Studies. She has returned to the Peeks Group for her Honours Project in 2020, having previously researched as an undergraduate volunteer in 2019. Bethany is currently interested in the synthesis and properties of cross-conjugated molecules.  
+Hi, I'm a first-year undergraduate student working with the Peeks group for my CHEM2999 project to metallate porphyrins and to explain the effects of different metals. I hope to pursue a career in research, so I'm excited to be finally getting some experience in the lab! I have a casual job on the weekend, and when I'm not studying for university or working, I like to relax by watching movies/tv-shows or reading. 
