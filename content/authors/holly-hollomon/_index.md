@@ -18,9 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Holly is a fourth-year undergraduate student majoring in the fields of chemistry and musicology.  In relation to the field of chemistry, they have taken a strong interest in exploring many facets related to the field of inorganic chemistry, taking their opportunity working within the Peeks Group as a time to develop a more specific interest within the field.  After volunteering during T3, Holly will return to the Peeks group in a summer research capacity in 2021.
-
-In the field of musicology, Holly has delved into the cross section of music performance and queer/gender identities and how the two areas intersect.
+bio: Holly is a fourth-year undergraduate student majoring in the fields of chemistry and musicology.  In relation to the field of chemistry, they have taken a strong interest in exploring many facets related to the field of inorganic chemistry, taking their opportunity working within the Peeks Group as a time to develop a more specific interest within the field.  After volunteering during T3, Holly will return to the Peeks group in a summer research capacity in 2021. In the field of musicology, Holly has delved into the cross section of music performance and queer/gender identities and how the two areas intersect.
 
 # List each interest with a dash
 interests:
