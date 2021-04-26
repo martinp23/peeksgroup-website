@@ -59,6 +59,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 Hi, I'm a first-year undergraduate student working with the Peeks group for my CHEM2999 project to metallate porphyrins and to explain the effects of different metals. I hope to pursue a career in research, so I'm excited to be finally getting some experience in the lab! I have a casual job on the weekend, and when I'm not studying for university or working, I like to relax by watching movies/tv-shows or reading. 

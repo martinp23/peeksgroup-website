@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Honours Student (2020)
+role: PhD student (2021-)
 
 # Organizations/Affiliations
 organizations:
@@ -28,7 +28,7 @@ education:
   courses:
   - course: Bachelor of Advanced Science (Chemistry/Material Science, Statistics minor)
     institution: University of New South Wales
-    year: in progress
+    year: 2020
 #   - course: Title course 1
 #     institution: Name of Institution
 #     year: 2012
@@ -64,4 +64,4 @@ email: ""
 user_groups:
 - Researchers
 ---
-Stephen is from Sydney, Australia, and is currently completing the Honours year of a Bachelor of Advanced Science (Chemistry/Material Science, Statistics minor) at UNSW. His current direction for research is pi-conjugated liquid crystals. He also has an active role in student societies at UNSW including [Students of Advanced Math and Science (SAMS)](https://www.facebook.com/groups/unsw.sams/) and [Students of Chemistry Society (SOCS)](https://www.chemistry.unsw.edu.au/current-students/undergraduate/socs).
+Stephen is from Sydney, Australia, and is currently completing his PhD in Chemistry at UNSW. His current direction for research is pi-conjugated liquid crystals. He also has an active role in student societies at UNSW including [Students of Advanced Math and Science (SAMS)](https://www.facebook.com/groups/unsw.sams/) and [Students of Chemistry Society (SOCS)](https://www.chemistry.unsw.edu.au/current-students/undergraduate/socs).

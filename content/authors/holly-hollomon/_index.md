@@ -59,7 +59,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 Holly is a fourth-year undergraduate student majoring in the fields of chemistry and musicology.  In relation to the field of chemistry, they have taken a strong interest in exploring many facets related to the field of inorganic chemistry, taking their opportunity working within the Peeks Group as a time to develop a more specific interest within the field.  After volunteering during T3, Holly will return to the Peeks group in a summer research capacity in 2021.
 

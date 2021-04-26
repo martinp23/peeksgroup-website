@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Scientia Fellow
+role: Scientia Lecturer
 
 # Organizations/Affiliations
 organizations:
