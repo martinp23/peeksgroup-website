@@ -63,7 +63,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigator
+- [Principal Investigator, Researchers]
 ---
 
 Originally from the North West of England, near to Liverpool, Martin went north to the University of St Andrews for his undergraduate chemistry (MChem) degree. There his interest in supramolecular and physical-organic chemistry was sparked by research projects with Prof Doug Philp (2nd year).
