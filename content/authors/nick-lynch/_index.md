@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Honours Student (2021-22)
+role: Honours Student (2021)
 
 # Organizations/Affiliations
 organizations:
