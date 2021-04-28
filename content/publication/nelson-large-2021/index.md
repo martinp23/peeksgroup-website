@@ -1,9 +1,8 @@
 ---
 title: Large Faraday Rotation in Optical-Quality Phthalocyanine and Porphyrin Thin
   Films
-date: '2021-04-01'
-draft: true
-publishDate: '2021-04-28T03:06:42.549130Z'
+date: 2021-04-01
+publishDate: 2021-04-28T03:06:42.549130Z
 authors:
 - Zachary Nelson
 - Leo Delage-Laurin
