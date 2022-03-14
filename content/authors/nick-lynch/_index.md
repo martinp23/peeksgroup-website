@@ -62,6 +62,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 Nick is currently studying a Bachelor of Medicinal Chemistry (Hons) at UNSW, entering a 4th year of study. He has joined the Peeks Group for a synthetic project, with minor emphasis on advanced characterisation. Nick is currently interested in the synthesis and characterisation of novel antiaromatic compounds.  
