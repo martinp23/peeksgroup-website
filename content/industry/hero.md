@@ -44,7 +44,7 @@ title = "Looking for research support?"
   
 +++
 
-**Looking for skilled research support for your project?**
+**Do you need skilled research support to solve a problem?**
 
 We can probably help. We have broad skills across analytical chemistry, synthesis, computational chemistry, and data analysis. We are devoted to doing high-quality science and being outcome-focused. Interested? Drop an email to <a href="../authors/martin">Dr Martin Peeks</a>, group lead.
 
