@@ -21,8 +21,14 @@
   weight = 35
 
 [[main]]
+  name = "Martin"
+  url = "authors/martin"
+  weight = 36
+
+
+[[main]]
   name = "Publications"
-  url = "#publications"
+  url = "publication"
   weight = 40
 
 [[main]]
@@ -31,9 +37,19 @@
   weight = 60
 
 [[main]]
+  name = "Industry"
+  url = "industry"
+  weight = 65
+
+[[main]]
+  name = "Research opportunities"
+  url = "opportunities"
+  weight = 66
+
+[[main]]
   name = "Resources"
   url = "resources"
-  weight = 65
+  weight = 75
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

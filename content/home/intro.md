@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Welcome"
+title = ""
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -14,26 +14,38 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
-[[feature]]
-  icon = "cubes"
-  icon_pack = "fas"
-  name = "Supramolecular<br> chemistry"
+#[[feature]]
+#  icon = "cubes"
+#  icon_pack = "fas"
+#  name = "Supramolecular<br> chemistry"
 #  description = "90%"
 
-[[feature]]
-  icon = "bolt"
-  icon_pack = "fas"
-  name = "Molecular electronics"
+#[[feature]]
+#  icon = "bolt"
+#  icon_pack = "fas"
+#  name = "Molecular electronics"
 
-[[feature]]
-  icon = "ring"
-  icon_pack = "fas"
-  name = "Aromaticity"
+#[[feature]]
+#  icon = "ring"
+#  icon_pack = "fas"
+#  name = "Aromaticity"
 #  description = "90%"
   # TODO: make better aromaticity logo
 
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "0", "20px", "0"]
+
+[advanced]
+ # Custom CSS. 
+ css_style = ""
 
 +++
-The Peeks group employs rational molecular design to build new materials, with a focus on exploring supramolecular and macromolecular chemistry towards sensing and light-harvesting applications. Scroll through this page to learn more!
 
-We are based in the [School of Chemistry](https://www.chemistry.unsw.edu.au/) at [UNSW Sydney](https://www.unsw.edu.au/). 
+<span style="font-size:1.25em;">We are a Chemistry research group based at the [School of Chemistry](https://www.chemistry.unsw.edu.au/) at [UNSW Sydney](https://www.unsw.edu.au/). We combine synthesis, computational chemistry, programming, and spectroscopy to understand the properties of pi-conjugated organic molecules. </span>
+
+<span style="font-size:1.25em;">Organic molecules are those which are mostly made up of carbon. By using skilled chemical synthesis to exactly engineer the structure of molecules,we can access a wide range of properties: whether as medicines, dyes, molecular wires, or more. Our group's research is based on the latter two categories. We design molecules using computational chemistry, make them using organic synthesis, and then study them with advanced spectroscopies.</span>
+
+<span style="font-size:1.25em;">Take a look around the site to learn a bit more about what we do. If you're interested in working with us, whether you're a potential student, an industry partner, or a collaborator, <a href="#contact">just get in touch</a>.</span>
+
+
