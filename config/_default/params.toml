@@ -208,7 +208,7 @@ plugins_js  = []
   #   0: Disabled
   #   1: Disqus (https://disqus.com)
   #   2: Commento (https://commento.io)
-  engine = 0
+  provider = ""
 
   # Which page types are commentable?
   commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
@@ -231,7 +231,7 @@ plugins_js  = []
   #   0: No search engine
   #   1: Academic (built-in)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  provider = "wowchemy"
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
@@ -259,7 +259,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 1
+  provider = "google"
   api_key = "AIzaSyDh4iObY_QC2tQ3u_t_pqESijUTDmtzcGo"
   zoom = 15
 
@@ -276,3 +276,9 @@ plugins_js  = []
 [cms]
   # See https://sourcethemes.com/academic/docs/install/#install-with-web-browser
   netlify_cms = true
+  branch = "master"
+
+
+# Icon Pack Extensions
+[icon.pack]
+ ai = true  # Enable the Academicons icon pack https://jpswalsh.github.io/academicons/
