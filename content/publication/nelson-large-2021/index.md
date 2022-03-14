@@ -30,7 +30,7 @@ abstract: The magneto-optical phenomenon known as Faraday rotation involves the 
   activity. Overall, we demonstrate that phthalocyanines and porphyrins are a class
   of rationally designed magneto-optical materials suitable for applications demanding
   large Verdet constants and high optical quality.
-featured: true
+featured: false
 publication: '*Journal of the American Chemical Society*'
 url_pdf: https://doi.org/10.1021/jacs.1c02113
 doi: 10.1021/jacs.1c02113
