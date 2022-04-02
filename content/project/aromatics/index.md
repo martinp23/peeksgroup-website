@@ -39,6 +39,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Aromatic molecules are cyclic and pi-conjugated, and exhibit some interesting effects. Most well-known nowadays is the behaviour of aromatic molecules in a magnetic field: in an NMR spectrometer, we see that the chemical shifts of protons inside and outside the ring are anamolously (de)shielded. This affect arises from the establishment of a persistent ring current of circulating pi-electrons, which itself generates a molecular magnetic field which opposes the applied field. 
+Aromatic molecules are cyclic and pi-conjugated, and exhibit some interesting effects. Most well-known nowadays is the behaviour of aromatic molecules in a magnetic field: in an NMR spectrometer, we see that the chemical shifts of protons inside and outside the ring appear (de)shielded. This effect arises from the establishment of a persistent ring current of circulating pi-electrons, which itself generates a molecular magnetic field which opposes the applied field. 
 
 What can we learn about the fundamental nature of aromaticity and antiaromaticity? Despite nearly a hundred years of study, aromaticity remains poorly defined. In addition to answers to this fundamental question, we are looking for materials applications of (anti)aromatic materials.
