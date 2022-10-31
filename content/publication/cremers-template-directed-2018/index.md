@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: "We report the template-directed synthesis of a π-conjugated 14-porphyrin nanoball. This structure consists of two intersecting nanorings containing six and 10 porphyrin units. Fluorescence upconversion spectroscopy experiments demonstrate that electronic excitation delocalizes over the whole three-dimensional π system in less than 0.3 ps if the nanoball is bound to its templates or over 2 ps if the nanoball is empty." 
 featured: false
 publication: "*J. Am. Chem. Soc.*"
-url_pdf: "https://doi.org/10.1021/jacs.8b02552"
+#url_pdf: "https://doi.org/10.1021/jacs.8b02552"
 doi: "10.1021/jacs.8b02552"
 tags: ["macrocycles", "porphyrins", "supramolecular chemistry", "self-assembly"]
 ---

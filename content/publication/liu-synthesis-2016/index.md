@@ -8,7 +8,7 @@ abstract: "The smallest and most strained member of a family of π-conjugated cy
 featured: false
 publication: "*Angewandte Chemie International Edition*"
 tags: ["macrocycles", "porphyrins", "supramolecular chemistry", "compchem"]
-url_pdf: "https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201602909"
+#url_pdf: "https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201602909"
 doi: "10.1002/anie.201602909"
 ---
 

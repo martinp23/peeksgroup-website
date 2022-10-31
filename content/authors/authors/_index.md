@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Martin Peeks
+title: Test
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Scientia Senior Lecturer
+role: Scientia Lecturer
 
 # Organizations/Affiliations
 organizations:
@@ -63,15 +63,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigator
-- Researchers
+
 ---
-
-Originally from the North West of England, near to Liverpool, Martin went north to the University of St Andrews for his undergraduate chemistry (MChem) degree. There his interest in supramolecular and physical-organic chemistry was sparked by research projects with Prof Doug Philp (2nd year).
-
-He then moved to the University of Oxford to work with Prof Harry L. Anderson for his DPhil (Oxford's name for a PhD). During his DPhil he explored electronic delocalization in molecular wires: specifically, porphyrin oligomers and nanorings. The project gave him extensive experience in the fundamentals of conjugated polymer chemistry, and aromaticity.
-
-In April 2017 he was awarded a Lindemann Trust Fellowship from the English Speaking Union, which supported his work at Massachusetts Institute of Technology, in Prof Timothy M. Swager's group, exploring magneto-optical polymers and other materials. From December 2018 to March 2019, he worked back in the Anderson group at Oxford.
-
-In June 2019, Martin started the Peeks group at UNSW Sydney, where he is a Scientia Lecturer. Research in the group explores the use of supramolecular chemistry to develop structure-property relationships for functional materials, and he retains an interest in exploring the nature and applications of (anti)aromaticity.
 

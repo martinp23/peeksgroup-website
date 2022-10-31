@@ -80,5 +80,7 @@ sitemap:
 taxonomies:
   tag: tags
   category: categories
+  author: authors
   publication_type: publication_types
 
+#enableRobotsTXT: true
