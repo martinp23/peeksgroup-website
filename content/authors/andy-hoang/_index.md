@@ -1,36 +1,35 @@
 ---
 # Display name
-title: "Stephen Bortolussi"
+title: "Andy Hoang"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "stephen-bortolussi"
+- "andy-hoang"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD student (2021-); Honours Student (2020)
+role: Visiting Student (2022)
 
 # Organizations/Affiliations
 organizations:
-- name: University of New South Wales
+- name: Franklin & Marshall College
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Stephen is from Sydney, Australia, and originally joined the Peeks group as an honours student in 2020, looking into the properties of liquid crystalline materials. He returned to the group in 2021 to start his PhD in Chemistry at UNSW. The current direction of his research is computational and synthetic studies into the electronic properties of (anti)aromatic molecules. He is also a teaching fellow with the UNSW School of Chemistry, and has an active role in the [Students of Chemistry Society (SOCS)](https://www.chemistry.unsw.edu.au/current-students/undergraduate/socs). 
+bio: Andy is a senior Chemistry and Mathematics double major at Franklin & Marshall College, Pennsylvania. He is joining the Peeks Group during his exchange term to work on a synthesis project. When Andy is not in the lab, you can find him at ICC where he usually has dance practices with his dance crew.
 
 # List each interest with a dash
 interests:
-- Properties of liquid crystalline materials
-- Excited state and charged state (anti)aromaticity 
+- Medicinal Chemistry, Synthetic Chemistry of Novel Antibacterial Compounds
 
 
 education:
   courses:
-  - course: Bachelor of Advanced Science (Chemistry/Material Science, Statistics minor)
-    institution: University of New South Wales
-    year: 2020
+  - course: Bachelor of Chemistry and Mathematics, in progress
+    institution: Franklin & Marshall College
+    year: 2019-2023
 #   - course: Title course 1
 #     institution: Name of Institution
 #     year: 2012
@@ -66,4 +65,4 @@ email: ""
 user_groups:
 - Researchers
 ---
-Stephen is from Sydney, Australia, and is currently completing his PhD in Chemistry at UNSW. His current direction for research is pi-conjugated liquid crystals. He also has an active role in student societies at UNSW including [Students of Advanced Math and Science (SAMS)](https://www.facebook.com/groups/unsw.sams/) and [Students of Chemistry Society (SOCS)](https://www.chemistry.unsw.edu.au/current-students/undergraduate/socs).
+Andy is a senior Chemistry and Mathematics double major at Franklin & Marshall College, Pennsylvania. He is joining the Peeks Group during his exchange term to work on a synthesis project. When Andy is not in the lab, you can find him at ICC where he usually has dance practices with his dance crew.
