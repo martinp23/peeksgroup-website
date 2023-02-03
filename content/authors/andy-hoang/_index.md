@@ -63,6 +63,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 Andy is a senior Chemistry and Mathematics double major at Franklin & Marshall College, Pennsylvania. He is joining the Peeks Group during his exchange term to work on a synthesis project. When Andy is not in the lab, you can find him at ICC where he usually has dance practices with his dance crew.

@@ -63,6 +63,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 Michelle is in her final year of completing a Bachelor of Advanced Science. Her Honours project focuses on the synthesis and properties of organometallic wires. 
