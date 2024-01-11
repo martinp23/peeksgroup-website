@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Student (2020-)
+role: PhD Student (2020-2023)
 
 # Organizations/Affiliations
 organizations:
@@ -60,6 +60,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 David received his undergraduate BSc degree from Northumbria University in 2016, before working in industry as an analytical chemist until 2018. He then started a 1-year research project in October 2018 at Durham University under the supervision of Dr James Walton, investigating aromatic transformations catalysed by η6-coordination to ruthenium. David joined the Peeks group in February 2020 and his research will focus on antiaromatic materials and their applications.
