@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hi! I'm a Sydney local currently in the final year of my Bachelor of Advanced Science. I’m studying Honours part-time with the Peeks group – I earn money as a building automation systems engineer, using specialist software to automate HVAC systems and build graphical interfaces for large commercial buildings. My interests are politics&#58; I'm in the leadership team of the youth wing of a major Australian political party, and I love to campaign for issues that are close to me! I like to cycle to uni when I’m not locked down in self-isolation.
+bio: Hi! I’m a Sydney local studying a PhD with the Peeks group at UNSW, having completed my Bachelor of Advanced Science (Hons) at this university in 2021. My primary research interests are synthetic organic chemistry, analytical techniques such as time-resolved spectrofluorometry, and computational chemistry. Outside of uni, I sometimes sing with Vox Canvas, a barbershop acapella group based in Sydney, and I have a keen interest in politics and urban development. After a long day working on my project, my cat Sammy is always waiting for me at home! 
 
 # List each interest with a dash
 interests:
@@ -65,4 +65,4 @@ email: ""
 user_groups:
 - Researchers
 ---
-Hi! I'm a Sydney local currently in the final year of my Bachelor of Advanced Science. I’m studying Honours part-time with the Peeks group – I earn money as a building automation systems engineer, using specialist software to automate HVAC systems and build graphical interfaces for large commercial buildings. My interests are politics&#58; I'm in the leadership team of the youth wing of a major Australian political party, and I love to campaign for issues that are close to me! I like to cycle to uni when I’m not locked down in self-isolation.
+Hi! I’m a Sydney local studying a PhD with the Peeks group at UNSW, having completed my Bachelor of Advanced Science (Hons) at this university in 2021. My primary research interests are synthetic organic chemistry, analytical techniques such as time-resolved spectrofluorometry, and computational chemistry. Outside of uni, I sometimes sing with Vox Canvas, a barbershop acapella group based in Sydney, and I have a keen interest in politics and urban development. After a long day working on my project, my cat Sammy is always waiting for me at home! 
