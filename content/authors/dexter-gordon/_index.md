@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Honours Student (2020-21)
+role: PhD Student (2023-)
 
 # Organizations/Affiliations
 organizations:
@@ -26,9 +26,10 @@ interests:
 
 education:
   courses:
-  - course: Bachelor of Advanced Science
+  
+  - course: Bachelor of Advanced Science 
     institution: University of New South Wales
-    year: in progress
+    year: 2021
 #   - course: Title course 1
 #     institution: Name of Institution
 #     year: 2012
@@ -62,6 +63,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Researchers
 ---
 Hi! I'm a Sydney local currently in the final year of my Bachelor of Advanced Science. I’m studying Honours part-time with the Peeks group – I earn money as a building automation systems engineer, using specialist software to automate HVAC systems and build graphical interfaces for large commercial buildings. My interests are politics&#58; I'm in the leadership team of the youth wing of a major Australian political party, and I love to campaign for issues that are close to me! I like to cycle to uni when I’m not locked down in self-isolation.
