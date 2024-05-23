@@ -14,7 +14,7 @@ authors:
 - Martin D. Peeks
 tags: []
 categories: []
-date: 0-01-01
+date: 2024-05-24
 lastmod: 2024-05-24T08:22:00+10:00
 featured: false
 draft: false
@@ -51,7 +51,7 @@ abstract: ' Zinc norcorrole was prepared as its pyridine complex (ZnNc·pyridine
   1000-fold higher binding constants than analogous zinc porphyrins. '
 publication: '*Inorganic Chemistry*'
 doi: 10.1021/acs.inorgchem.4c01146
-links:
-- name: URL
-  url: '   https://doi.org/10.1021/acs.inorgchem.4c01146   '
+# links:
+# - name: URL
+#   url: '   https://doi.org/10.1021/acs.inorgchem.4c01146   '
 ---
