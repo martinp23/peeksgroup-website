@@ -1,6 +1,8 @@
+pipx seems best to get academic installed. 
+
+pipx install academic
 academic import --bibtex file.bib
 
-C:\Users\---\anaconda3\Scripts\academic.exe
-
-
 then add featured.gif to publication folder
+
+might need to adjust index.md to remove the "link" block, because otherwise there are netlify build errors.
