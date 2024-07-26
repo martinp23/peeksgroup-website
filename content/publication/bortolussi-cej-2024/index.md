@@ -1,7 +1,7 @@
 ---
 title: Spectroscopic Manifestations of (Anti)Aromaticity in Oxidized and Reduced Porphyrin
   and Norcorrole
-date: -01-01
+date: 2024-07-26
 publishDate: '2024-07-26T04:35:56.336500Z'
 authors:
 - Stephen D. S. Bortolussi
