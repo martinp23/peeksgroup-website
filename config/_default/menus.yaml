@@ -11,12 +11,12 @@ main:
     url: '/#projects'
     weight: 30
   - name: Meet the team
-    url: '/#people'
+    url: 'people'
     weight: 35
-  - name: Alumni
-    url: 'alumni'
-    parent: 'Meet the team'
-    weight: 35
+  # - name: Alumni
+  #   url: 'alumni'
+  #   parent: 'Meet the team'
+  #   weight: 35
   - name: Publications
     url: publication
     weight: 40

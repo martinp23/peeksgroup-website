@@ -7,13 +7,13 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 68  # Order that this section will appear.
 
-title = "Group alumni"
+title = "Group members"
 subtitle = ""
 
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Alumni"]
+  user_groups = ["Researchers","Alumni"]
 
 [design]
   # Show user's social networking links? (true/false)
