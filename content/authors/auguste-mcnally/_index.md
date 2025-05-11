@@ -1,16 +1,16 @@
 ---
 # Display name
-title: "Jack May"
+title: "Auguste McNally"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "jack-may"
+- "auguste-mcnally"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Researcher
+role: Honours Student (2025)
 
 # Organizations/Affiliations
 organizations:
@@ -22,13 +22,14 @@ bio:
 
 # List each interest with a dash
 interests:
-- Computational chemistry of pi-conjugated molecules
+- Synthesis and properties of molecular wires
 
 # education:
 #   courses:
-#   - course: Title course 1
-#     institution: Name of Institution
-#     year: 2012
+  
+#   - course: Bachelor of Advanced Science 
+#     institution: University of New South Wales
+#     year: 2025
 #   - course: Title course 1
 #     institution: Name of Institution
 #     year: 2012
@@ -57,10 +58,10 @@ interests:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: ""
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Researchers
 ---

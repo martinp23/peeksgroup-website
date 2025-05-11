@@ -1,16 +1,16 @@
 ---
 # Display name
-title: "Jack May"
+title: "Josh Pitt"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "jack-may"
+- "josh-pitt"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Researcher
+role: Honours Student (2025)
 
 # Organizations/Affiliations
 organizations:
@@ -18,17 +18,18 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: After spending a year working at the National Deuteration Facility at ANSTO, Josh is completing an Honours project with the Peeks group in 2025. His interest lies in the synthesis of unusually conjugated molecules, chiefly [3]radialene structures, and their applications. At UNSW, Josh is involved with the Students of Chemistry Society (SOCS) and works as a mentor in the Peer Assisted Study Session (PASS) program. Outside the walls of research, you'll find Josh reading one too many books at a time, pampering his two cockatiels, or exploring cafes, bars, and restaurants in Sydney.
 
 # List each interest with a dash
 interests:
-- Computational chemistry of pi-conjugated molecules
+- Synthesis and properties of [3]radialene derivatives
 
 # education:
 #   courses:
-#   - course: Title course 1
-#     institution: Name of Institution
-#     year: 2012
+  
+#   - course: Bachelor of Advanced Science 
+#     institution: University of New South Wales
+#     year: 2021
 #   - course: Title course 1
 #     institution: Name of Institution
 #     year: 2012
@@ -57,10 +58,11 @@ interests:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: ""
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Researchers
 ---
+"After spending a year working at the National Deuteration Facility at ANSTO, Josh is completing an Honours project with the Peeks group in 2025. His interest lies in the synthesis of unusually conjugated molecules, chiefly [3]radialene structures, and their applications. At UNSW, Josh is involved with the Students of Chemistry Society (SOCS) and works as a mentor in the Peer Assisted Study Session (PASS) program. Outside the walls of research, you'll find Josh reading one too many books at a time, pampering his two cockatiels, or exploring cafes, bars, and restaurants in Sydney." 

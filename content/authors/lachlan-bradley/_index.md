@@ -1,16 +1,16 @@
 ---
 # Display name
-title: "Jack May"
+title: "Lachlan Bradley"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "jack-may"
+- "lachlan-bradley"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Researcher
+role: PhD Student (2025-)
 
 # Organizations/Affiliations
 organizations:
@@ -18,17 +18,18 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: I’m a Sydneysider returning from the UK and now studying with the Peeks Group at UNSW, following an integrated Masters in Chemistry (MChem Hons) from the University of Oxford. My research interests lie in multi-configurational computational chemistry and its applications to synthetic chemistry. Away from academia, I follow motorsports and gridiron football, and have a deep passion for electronic music production.
 
 # List each interest with a dash
 interests:
-- Computational chemistry of pi-conjugated molecules
+- Computational and synthetic chemistry of pi-conjugated molecules
 
-# education:
-#   courses:
-#   - course: Title course 1
-#     institution: Name of Institution
-#     year: 2012
+education:
+  courses:
+  
+  - course: Masters in Chemistry (MChem Hons)
+    institution: University of Oxford
+    year: 2024
 #   - course: Title course 1
 #     institution: Name of Institution
 #     year: 2012
@@ -57,10 +58,11 @@ interests:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: ""
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Researchers
 ---
+I’m a Sydneysider returning from the UK and now studying with the Peeks Group at UNSW, following an integrated Masters in Chemistry (MChem Hons) from the University of Oxford. My research interests lie in multi-configurational computational chemistry and its applications to synthetic chemistry. Away from academia, I follow motorsports and gridiron football, and have a deep passion for electronic music production.
