@@ -9,8 +9,7 @@ title: Overview
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
-date: 'May 2020'
-lastmod: '10 May 2020'
+date: 2020-05-01T12:00:00Z
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
