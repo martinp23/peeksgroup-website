@@ -7,6 +7,7 @@ authors: []
 tags: []
 categories: []
 date: 2020-05-09T21:47:12+10:00
+show_date: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
