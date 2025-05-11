@@ -19,12 +19,12 @@ removePathAccents: true
 ############################
 ## MODULES
 ############################
-module:
-  imports:
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
+# module:
+#   imports:
+#     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
+#     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
+#     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
+#     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
 
 ############################
 ## ADVANCED
@@ -32,8 +32,13 @@ module:
 
 enableGitInfo: false
 summaryLength: 15
-paginate: 10
+pagination:
+  pagerSize: 10
+  
+  
 enableEmoji: true
+enableRobotsTXT: true
+
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 
@@ -75,12 +80,7 @@ security:
     getenv:
       - ^HUGO_
       - ^WC_
+
 sitemap:
   _merge: deep
-taxonomies:
-  tag: tags
-  category: categories
-  author: authors
-  publication_type: publication_types
 
-#enableRobotsTXT: true
