@@ -24,15 +24,15 @@ bio: Priyadarshini, from India, joined the Peeks group in 2025. After completing
 interests:
 - Synthesis and properties of molecular wires
 
-# education:
-#   courses:
+education:
+  courses:
   
-#   - course: Bachelor of Advanced Science 
-#     institution: University of New South Wales
-#     year: 2021
-#   - course: Title course 1
-#     institution: Name of Institution
-#     year: 2012
+  - course: Master of Science (Chemistry)
+    institution: Amrita Vishwa Vidyapeetham
+    year: 2015
+  - course: Bachelor of Science (Chemistry)
+    institution: Mar Ivanios College, Kerala University
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
