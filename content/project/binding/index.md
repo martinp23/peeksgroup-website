@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Self-assembly fundamentals"
+title: "Complexity in chemistry"
 summary: ""
-authors: []
+authors: ['Martin D. Peeks']
 tags: []
 categories: []
 date: 2020-05-10T11:39:06+10:00
 show_date: false
-
+show_authors: false
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 

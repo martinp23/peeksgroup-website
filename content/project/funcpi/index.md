@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Faraday rotation in organic materials"
+title: "Functional π-conjugated molecules"
 summary: ""
-authors: []
+authors: ['Martin D. Peeks','Dexter Gordon','Bethany K. Hillier','Lachlan Bradley','Josh Pitt','Auguste McNally']
 tags: []
 categories: []
 date: 2020-05-09T21:47:19+10:00

@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Aromaticity and antiaromaticity"
+title: "Fundamentals of electronic delocalization"
 summary: ""
-authors: []
+authors: ['Martin D. Peeks','Stephen D. S. Bortolussi','Priyadarshini Thoppe-Sivakumar','Bethany K. Hillier','Sebastian Devine-Poulos']
 tags: []
 categories: []
 date: 2020-05-09T21:47:12+10:00

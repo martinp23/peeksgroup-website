@@ -7,6 +7,8 @@ publication_types: ["2"]
 abstract: "Does aromaticity have a size limit? Evidence is presented for global aromaticity in porphyrin nanorings with circuits of up to 162 π-electrons. The conformation of the nanoring can be altered by changing the template, which in turn controls the aromaticity. Whenever a ring current is observed, its direction is correctly predicted by Hückel’s rule."
 featured: false
 publication: "*Nature Chemistry*"
+projects: ['aromaticity']
+
 #url_pdf: "https://www.nature.com/articles/s41557-019-0398-3"
 doi: "10.1038/s41557-019-0398-3"
 tags: ["macrocycles", "porphyrins", "compchem",  "spectroscopy", "aromaticity", "NMR"]
