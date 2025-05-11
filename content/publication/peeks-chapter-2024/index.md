@@ -9,7 +9,7 @@ authors:
 - Martin D. Peeks
 tags: []
 categories: []
-date: '2024-01-01'
+date: '2024-11-04'
 lastmod: 2025-05-12T07:12:00+10:00
 featured: false
 draft: false
@@ -30,6 +30,7 @@ image:
 projects: []
 publishDate: '2025-05-11T21:12:00.053353Z'
 publication_types:
+- '2'
 - '6'
 abstract: 'Despite its history as one of the oldest concepts in chemistry, the definition
   of aromaticity continues to be the subject of debate. Notably, it continues to develop
@@ -43,6 +44,6 @@ abstract: 'Despite its history as one of the oldest concepts in chemistry, the d
 publication: '*Advances in Physical Organic Chemistry*'
 doi: 10.1016/bs.apoc.2024.10.001
 links:
-- name: URL
+- name: PDF
   url: https://unsworks.unsw.edu.au/entities/publication/07bf4e80-f8c0-4f25-b1b5-78026b0c75db
 ---
