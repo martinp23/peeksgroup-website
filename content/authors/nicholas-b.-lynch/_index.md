@@ -1,16 +1,16 @@
 ---
 # Display name
-title: "Stephen Bortolussi"
+title: "Nick Lynch"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "stephen-bortolussi"
+- Nicholas B. Lynch
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD student (2021-); Honours Student (2020)
+role: Honours Student (2021)
 
 # Organizations/Affiliations
 organizations:
@@ -18,19 +18,17 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Stephen is from Sydney, Australia, and originally joined the Peeks group as an honours student in 2020, looking into the properties of liquid crystalline materials. He returned to the group in 2021 to start his PhD in Chemistry at UNSW. The current direction of his research is computational and synthetic studies into the electronic properties of (anti)aromatic molecules. He is also a teaching fellow with the UNSW School of Chemistry, and has an active role in the [Students of Chemistry Society (SOCS)](https://www.chemistry.unsw.edu.au/current-students/undergraduate/socs). 
+bio: Nick is currently studying a Bachelor of Medicinal Chemistry (Hons) at UNSW, entering a 4th year of study. He has joined the Peeks Group for a synthetic project, with minor emphasis on advanced characterisation. Nick is currently interested in the synthesis and characterisation of novel antiaromatic compounds.  
 
 # List each interest with a dash
 interests:
-- Properties of liquid crystalline materials
-- Excited state and charged state (anti)aromaticity 
-
+- Synthesis of functionalised antiaromatic compounds 
 
 education:
   courses:
-  - course: Bachelor of Advanced Science (Chemistry/Material Science, Statistics minor)
+  - course: Bachelor of Medicinal Chemistry (Hons), 2017-2021 
     institution: University of New South Wales
-    year: 2020
+    year: in progress
 #   - course: Title course 1
 #     institution: Name of Institution
 #     year: 2012
@@ -64,6 +62,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
-Stephen is from Sydney, Australia, and is currently completing his PhD in Chemistry at UNSW. His current direction for research is pi-conjugated liquid crystals. He also has an active role in student societies at UNSW including [Students of Advanced Math and Science (SAMS)](https://www.facebook.com/groups/unsw.sams/) and [Students of Chemistry Society (SOCS)](https://www.chemistry.unsw.edu.au/current-students/undergraduate/socs).
+Nick is currently studying a Bachelor of Medicinal Chemistry (Hons) at UNSW, entering a 4th year of study. He has joined the Peeks Group for a synthetic project, with minor emphasis on advanced characterisation. Nick is currently interested in the synthesis and characterisation of novel antiaromatic compounds.  

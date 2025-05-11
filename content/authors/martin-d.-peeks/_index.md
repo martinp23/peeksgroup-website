@@ -4,7 +4,7 @@ title: Martin Peeks
 
 # Username (this should match the folder name)
 authors:
-- admin
+- Martin D. Peeks
 
 # Is this the primary user of the site?
 superuser: true

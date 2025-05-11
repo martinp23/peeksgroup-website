@@ -4,7 +4,7 @@ title: "Callum Branley"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "callum-branley"
+- Callum P. Branley
 
 # Is this the primary user of the site?
 superuser: false

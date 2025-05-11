@@ -8,6 +8,7 @@ authors:
 - Carmen Zhou
 - Nicholas B. Lynch
 - Martin D. Peeks
+projects: ['aromaticity']
 publication_types:
 - '2'
 abstract: Abstract Aromaticity and antiaromaticity are foundational principes in organic

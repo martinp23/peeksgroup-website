@@ -27,10 +27,9 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ['aromaticity']
 publishDate: '2025-05-11T21:12:00.053353Z'
 publication_types:
-- '2'
 - '6'
 abstract: 'Despite its history as one of the oldest concepts in chemistry, the definition
   of aromaticity continues to be the subject of debate. Notably, it continues to develop
