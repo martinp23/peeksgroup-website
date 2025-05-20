@@ -6,20 +6,19 @@ title: Photoexcited and ground-state diradical(oid) character in a triquino[3]ra
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Bethany K Hillier
+- Bethany K. Hillier
 - Damon M. de Clercq
 - Stephen D. S. Bortolussi
 - Simona S. Capomolla
-- Michael P Nielsen
+- Michael P. Nielsen
 - Katarzyna Młodzikowska-Pieńko
 - Renana Gershoni-Poranne
-- Timothy W Schmidt
+- Timothy W. Schmidt
 - Martin D. Peeks
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
-projects: ['funcpi']
 
 date: '2025-05-20'
 
@@ -87,7 +86,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: ['funcpi']
 links:
 - name: URL
   url: http://dx.doi.org/10.1039/D5SC01676B
