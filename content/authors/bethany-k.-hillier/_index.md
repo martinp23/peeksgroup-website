@@ -31,7 +31,7 @@ education:
     year: 2016-2020
   - course: Honours in the School of Chemistry 
     institution: UNSW
-    year: in progress
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
