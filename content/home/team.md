@@ -18,7 +18,7 @@ design:
   </div>
   <div style="padding-left:5%; flex: 2;">
     <p>For a full list of group members and alumni, visit <a href="/people">our people page</a>.</p>
-    <p> We are always looking for enthusiastic students and researchers to join our team. We welcome applications from students at all levels, including undergraduate, honours, masters, and PhD students, and are always willing to discuss supporting fellowship applications from postdoctoral researchers. We generally support the applications of up to two candidates in each of the major competitive <a href="https://www.unsw.edu.au/research/hdr/application">UNSW PhD scholarship application rounds</a> (May and September for all candidates, with an additional round for domestic candidates in January). Other vacancies will be advertised.</p> 
+    <p> We are always looking for enthusiastic students and researchers to join our team. We welcome applications from students at all levels, including undergraduate, honours, masters, and PhD students, and are always willing to discuss supporting fellowship applications from postdoctoral researchers. We generally support the applications of up to two candidates in each of the major competitive <a href="https://www.unsw.edu.au/research/hdr/application">UNSW PhD scholarship application rounds</a> (May and September for all candidates, with an additional round for domestic candidates in January). Other vacancies, including funded postdoctoral positions, will be advertised.</p> 
     <p>Interested in joining the group or learning more? Send an email to <a href="mailto:m.peeks@unsw.edu.au">m.peeks@unsw.edu.au</a>. </p>
   </div>
 </div>
