@@ -6,7 +6,7 @@ title: Photoexcited and ground-state diradical(oid) character in a triquino[3]ra
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Bethany Hillier
+- Bethany K. Hillier
 - Damon M. de Clercq
 - Stephen D. S. Bortolussi
 - Simona S. Capomolla
