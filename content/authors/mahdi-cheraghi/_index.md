@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Hello and welcome! I’m Mahdi from Iran, passionate about chemistry. I began my research in analytical chemistry, working on smartphone-based spectroscopy, and later developed a strong interest in inorganic and organometallic chemistry. I am now pursuing my PhD in Dr Peeks’ group on organometallic molecular wires — a new fascinating and emerging field — and am honored to be co-advised by Prof. Field.
 
 # List each interest with a dash
 interests:
@@ -62,3 +62,4 @@ email: ""
 user_groups:
 - Researchers
 ---
+Hello and welcome! I’m Mahdi from Iran, passionate about chemistry. I began my research in analytical chemistry, working on smartphone-based spectroscopy, and later developed a strong interest in inorganic and organometallic chemistry. I am now pursuing my PhD in Dr Peeks’ group on organometallic molecular wires — a new fascinating and emerging field — and am honored to be co-advised by Prof. Field.
