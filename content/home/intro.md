@@ -42,9 +42,9 @@ subtitle = ""
 
 +++
 
-<div style="background-color: var(--bs-primary-bg-subtle, #e8f4fd); border: 2px solid var(--bs-primary, #1976d2); border-radius: 8px; padding: 15px; margin-bottom: 30px; text-align: center; color: var(--bs-body-color, #333);">
+<!-- <div style="background-color: var(--bs-primary-bg-subtle, #e8f4fd); border: 2px solid var(--bs-primary, #1976d2); border-radius: 8px; padding: 15px; margin-bottom: 30px; text-align: center; color: var(--bs-body-color, #333);">
   <strong>🎉 We are hiring!</strong> Check out our <a href="https://external-careers.jobs.unsw.edu.au/cw/en/job/534509/postdoctoral-fellow-chemistry" target="_blank" style="color: var(--bs-primary, #1976d2); text-decoration: underline;">postdoctoral vacancy</a> - apply by 23rd Sept 2025!
-</div>
+</div> -->
 
 <span style="font-size:1.25em;">We are a Chemistry research group based at the [School of Chemistry](https://www.chemistry.unsw.edu.au/) at [UNSW Sydney](https://www.unsw.edu.au/). We combine synthesis, computational chemistry, programming, and spectroscopy to understand the properties of pi-conjugated organic molecules. </span>
 
