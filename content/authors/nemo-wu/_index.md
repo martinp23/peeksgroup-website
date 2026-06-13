@@ -1,16 +1,16 @@
 ---
 # Display name
-title: "Bethany Hillier"
+title: "Nemo Wu"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "bethany-hillier"
+- "nemo-wu"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Student (2021-2025); Honours Student (2020-2021); Undergraduate researcher (2019)
+role: Honours Student (2026)
 
 # Organizations/Affiliations
 organizations:
@@ -18,20 +18,21 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Bethany completed a Bachelor of Science (International) at UNSW, supplementing her Chemistry major with a minor in Spanish and Latin American Studies. She has returned to the Peeks Group for her Honours Project in 2020, having previously researched as an undergraduate volunteer in 2019. Bethany is currently interested in the synthesis and properties of cross-conjugated molecules.  
+bio: Hi there! I'm Nemo, a Sydney local completing an Honours project for my Bachelor of Medicinal Chemistry with the Peeks group. My research interests lie in synthetic organic chemistry, particularly the synthesis and characterisation of diradical compounds. Outside of the lab, you can catch me freediving/spearfishing, or plodding through the Australian bush somewhere.
 
 # List each interest with a dash
 interests:
-- Synthesis of cross-conjugated molecules
+- Synthesis and properties of organic diradicals
 
-education:
-  courses:
-  - course: Bachelor of Science (International)
-    institution: UNSW
-    year: 2016-2020
-  - course: Honours in the School of Chemistry 
-    institution: UNSW
-    year: 2021
+# education:
+#   courses:
+  
+#   - course: Bachelor of Advanced Science 
+#     institution: University of New South Wales
+#     year: 2025
+#   - course: Title course 1
+#     institution: Name of Institution
+#     year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -62,6 +63,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Researchers
 ---
-Bethany completed a Bachelor of Science (International) at UNSW, supplementing her Chemistry major with a minor in Spanish and Latin American Studies. She has returned to the Peeks Group for her Honours Project in 2020, having previously researched as an undergraduate volunteer in 2019. Bethany is currently interested in the synthesis and properties of cross-conjugated molecules.  
+Hi there! I'm Nemo, a Sydney local completing an Honours project for my Bachelor of Medicinal Chemistry with the Peeks group. My research interests lie in synthetic organic chemistry, particularly the synthesis and characterisation of diradical compounds. Outside of the lab, you can catch me freediving/spearfishing, or plodding through the Australian bush somewhere.

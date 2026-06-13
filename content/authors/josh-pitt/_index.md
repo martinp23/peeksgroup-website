@@ -63,6 +63,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 After spending a year working at the National Deuteration Facility at ANSTO, Josh is completing an Honours project with the Peeks group in 2025. His interest lies in the synthesis of unusually conjugated molecules, chiefly [3]radialene structures, and their applications. At UNSW, Josh is involved with the Students of Chemistry Society (SOCS) and works as a mentor in the Peer Assisted Study Session (PASS) program. Outside the walls of research, you'll find Josh reading one too many books at a time, pampering his two cockatiels, or exploring cafes, bars, and restaurants in Sydney.

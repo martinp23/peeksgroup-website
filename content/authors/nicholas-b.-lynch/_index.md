@@ -28,7 +28,7 @@ education:
   courses:
   - course: Bachelor of Medicinal Chemistry (Hons), 2017-2021 
     institution: University of New South Wales
-    year: in progress
+
 #   - course: Title course 1
 #     institution: Name of Institution
 #     year: 2012

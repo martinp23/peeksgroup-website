@@ -63,6 +63,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 Hiya! I'm Auguste, a lifelong Sydney resident. I'm completing my Honours project with the Peeks group to complete my Bachelors of Advanced Science (Honours). I've previously completed research on batteries and reaction kinetics in ionic liquids! My research interest lies in understanding molecules and Chemistry at a fundamental level. When I'm not in the lab I'm debating at an international level, playing video games and volunteering with St John Ambulance!
