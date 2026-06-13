@@ -11,7 +11,7 @@
 {{ if eq $item.Type "event" }}
   {{ $show_authors_only = true }}
 {{ else if eq $item.Type "publication" }}
-  {{ $show_authors_only = false }}
+  {{ $show_authors_only = true }}
 {{ else if eq $item.Type "project" }}
   {{ $show_authors_only = true }}
 {{ end }}
@@ -34,6 +34,24 @@
     <div class="section-subheading article-title mb-0 mt-0">
       <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
     </div>
+
+    {{/* Modified Publication/Journal Source & Year Line */}}
+    {{ if eq $item.Type "publication" }}
+    <div class="stream-meta article-metadata search-result-repository_custom mt-0 mb-1">
+      <div>
+        {{ if $item.Params.publication_short }}
+          {{ $item.Params.publication_short | markdownify }}
+        {{ else if $item.Params.publication }}
+          {{ $item.Params.publication | markdownify }}
+        {{ end }}
+        
+        {{ if not $item.Date.IsZero }}
+          <span class="middot-divider"></span>
+          <span>{{ $item.Date.Format "2006" }}</span>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
 
     {{ with $summary }}
     <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
@@ -71,12 +89,13 @@
       {{ partial "page_links" (dict "page" $item "is_list" 1) }}
     </div>
     {{ end }}
-<br>
+
   </div>
   <div class="ml-3">
-    {{ $resource := partial "functions/get_featured_image.html" $item }}
+    {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
     {{ with $resource }}
-      {{ $image := .Resize "150x webp" }}
+      {{ $image := .Resize "150x" }}
+      {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
       <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
         <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
             alt="{{ $item.Title }}" loading="lazy">
