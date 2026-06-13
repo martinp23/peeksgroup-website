@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Scientia Senior Lecturer
+role: Scientia Associate Professor
 
 # Organizations/Affiliations
 organizations:
