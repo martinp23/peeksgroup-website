@@ -39,7 +39,7 @@ image:
 projects: []
 publishDate: '2026-06-13T05:25:48.762429Z'
 publication_types:
-- '2'
+- preprint
 abstract: The electronic properties of a suite of di- and tri-nuclear ruthenium 
   bis(acetylide)-based complexes incorporating phenylene and naphthylene bridges
   have been explored experimentally and computationally. The complexes, 

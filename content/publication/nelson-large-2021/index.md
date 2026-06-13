@@ -9,7 +9,7 @@ authors:
 - Martin D. Peeks
 - Timothy M. Swager
 publication_types:
-- '2'
+- article-journal
 abstract: The magneto-optical phenomenon known as Faraday rotation involves the rotation
   of plane-polarized light as it passes through an optical medium in the presence
   of an external magnetic field oriented parallel to the direction of light propagation.

@@ -33,7 +33,7 @@ image:
 projects: []
 publishDate: '2026-06-13T05:25:45.338049Z'
 publication_types:
-- '2'
+- preprint
 abstract: We describe how to determine the photostationary state (PSS) 
   distributions of photoswitch isomers in a tutorial-like presentation. The key 
   requirements for measurements are described, as are the assumptions employed 

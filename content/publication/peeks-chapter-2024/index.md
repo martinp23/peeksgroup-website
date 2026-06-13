@@ -30,7 +30,7 @@ image:
 projects: ['aromaticity']
 publishDate: '2025-05-11T21:12:00.053353Z'
 publication_types:
-- '6'
+- chapter
 abstract: 'Despite its history as one of the oldest concepts in chemistry, the definition
   of aromaticity continues to be the subject of debate. Notably, it continues to develop
   and to evolve – and to survive calls for its abandonment. In practice, the concept
