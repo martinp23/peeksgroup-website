@@ -3,7 +3,8 @@ title: "Correspondence on \"How Aromatic Are Molecular Nanorings? The Case of a 
 date: 2022-01-01
 publishDate: 2022-10-31T00:02:29.467986Z
 authors: ["Jie-Ren Deng", "David Bradley", "Michael Jirasek", "Harry L. Anderson", "Martin D. Peeks"]
-publication_types: ["2"]
+publication_types:
+- article-journal
 abstract: ""
 featured: false
 publication: "*Angew. Chem. Int. Ed.*"

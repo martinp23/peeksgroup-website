@@ -40,7 +40,7 @@ image:
 projects: []
 publishDate: '2026-06-13T05:25:42.087573Z'
 publication_types:
-- '2'
+- preprint
 abstract: Singlet fission (SF) and triplet-triplet annihilation upconversion 
   (TTA-UC) are photophysical processes which, respectively, result in the 
   division of one high energy singlet state into two lower-energy triplet 

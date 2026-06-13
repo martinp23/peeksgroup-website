@@ -44,8 +44,8 @@ image:
 projects: []
 publishDate: '2026-06-13T05:25:34.583323Z'
 publication_types:
-- '2'
-abstract: ABSTRACT The removal of perfluoroalkyl substances (PFAS) from water is
+- 'Journal article'
+abstract: The removal of perfluoroalkyl substances (PFAS) from water is
   critical to protect human health and the environment. However, removing 
   short-chain PFAS remains a significant challenge, and a molecular-level 
   understanding of their binding is lacking. Here, we utilise a metal-organic 

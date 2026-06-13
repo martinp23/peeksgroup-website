@@ -10,7 +10,7 @@ authors:
 - Martin D. Peeks
 projects: ['aromaticity']
 publication_types:
-- '2'
+- article-journal
 abstract: Abstract Aromaticity and antiaromaticity are foundational principes in organic
   chemistry, regularly invoked to explain stability, structure, and magnetic and electronic
   properties. There are ongoing challenges in assigning molecules as aromatic or antiaromatic

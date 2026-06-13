@@ -41,7 +41,7 @@ image:
 projects: ['binding']
 publishDate: '2025-11-17T19:56:50.971796Z'
 publication_types:
-- '2'
+- article-journal
 abstract: Reciprocal allosteric regulation, where binding events 
   influence each other simultaneously, is a key target for supramolecular 
   chemists designing biomimetic systems. Platinum(II) lantern-shaped cages, 

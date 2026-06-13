@@ -35,7 +35,7 @@ image:
 projects: ['aromaticity','binding']
 publishDate: '2024-05-23T22:21:00.307169Z'
 publication_types:
-- '2'
+- article-journal
 abstract: ' Zinc norcorrole was prepared as its pyridine complex (ZnNc·pyridine) by
   metalation of freebase norcorrole. The ZnNc·pyridine complex is distinctly bowl-shaped,
   as demonstrated by both X-ray crystallography and nuclear magnetic resonance (NMR)
